@@ -32,11 +32,11 @@ Elbow method to find optimal amount of clusters:  <br/>
 <br />
 <br />
 Cluster the datapoints:  <br/>
-<img src="https://i.imgur.com/NrrF2J0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kjfzwpg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Showing cluster assingment by point as well as cluster centers:  <br/>
-<img src="https://i.imgur.com/dgPtrag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CqCTL5y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Actual cluster locations in Chicago:  <br/>
