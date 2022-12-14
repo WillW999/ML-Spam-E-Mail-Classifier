@@ -24,11 +24,11 @@ Splitting dataset into test and train:  <br/>
 <br />
 <br />
 Converting dataset to RDD Array: <br/>
-<img src="https://i.imgur.com/qe19uqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4CBUzOP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Elbow method to find optimal amount of clusters:  <br/>
-<img src="https://i.imgur.com/9tq4Gk8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yzsKWfF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Cluster the datapoints:  <br/>
