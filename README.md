@@ -1,7 +1,7 @@
-<h1>K-means Clustering of Crime Locations in Chicago</h1>
+<h1>Supervised ML Spam Email Classifier</h1>
 
 <h2>Description</h2>
-Using a dateset of crime locations based on their latitude and longitude. Using this data I am able to cluster these data points into crime clusters, giving chicago PD some important information on to where they should be allocating personnel. 
+Using a dateset of spam and non spam emails I construct a supervised machine learning binary classifier that is able to detect spam emails at 97% accuracy. 
 <br />
 
 
@@ -9,18 +9,18 @@ Using a dateset of crime locations based on their latitude and longitude. Using 
 
 - <b>DataBricks</b>
 - <b>Pandas</b> 
-- <b>Numpy</b>
-- <b>Kmeans from Sklearn</b>
+- <b>Pyspark</b>
+
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
 Importing of packages and dataset: <br/>
-<img src="https://i.imgur.com/3En8xCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lfmMXWV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Splitting dataset into test and train:  <br/>
-<img src="https://i.imgur.com/ZSVRSZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/24fT9Ns.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Converting dataset to RDD Array: <br/>
