@@ -1,7 +1,7 @@
 <h1>Supervised ML Spam Email Classifier</h1>
 
 <h2>Description</h2>
-Using a dateset of spam and non spam emails I construct a supervised machine learning binary classifier that is able to detect spam emails at 97% accuracy. 
+Using a dateset of spam and non spam emails I construct a supervised machine learning binary classifier that is able to detect spam emails at 93% accuracy. 
 <br />
 
 
@@ -40,7 +40,7 @@ Showing cluster assingment by point as well as cluster centers:  <br/>
 <br />
 <br />
 Actual cluster locations in Chicago:  <br/>
-<img src="https://i.imgur.com/486ye9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uOlG0Ae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
